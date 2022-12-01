@@ -3,13 +3,14 @@
 
 Try not run on Enemies, get all Collectibles and Exit!
 
-<p align="center">
-  <img width="2198" alt="Screen Shot 2022-12-01 at 6 19 28 PM" src="https://user-images.githubusercontent.com/37631996/205120561-872efd34-564d-40ad-b2de-1f20fd73bb3c.png">
-</p>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/37631996/205122424-a6048edd-b566-44c3-8520-d27e352b73af.gif)
 
-7 maps was predefined and locatedin "maps" folder, but you can simply create your own!
+
+7 maps was predefined and located in "maps" folder, but you can simply create your own!
+
 
 Unfortunatelly run only on mac os.
+
 
 How to play:
 
