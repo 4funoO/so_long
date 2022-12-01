@@ -29,6 +29,7 @@ How to create map:
    a) '1' - defines a Wall
    b) '0' - Free space
    c) 'P' - Player position
+   d) 'C' - Collectible
    d) 'E' - Exit position
 
 Please note: Map should have 1 Player, 1 Exit and at least 1 Collectible. Map should be surrounded by walls and not rectangular.
