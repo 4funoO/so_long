@@ -16,7 +16,7 @@ How to play:
 
 * Copy repository on your device
 * cd into repository and run "make bonus" (or "make" for non-animated version with no enemies)
-* Run Executable so_long_bonus (so_long if you compiled non-animated version) with 2 -nd parameter path to the map (ex: "./so_long_bonus maps/map2.ber"
+* Run Executable so_long_bonus (so_long if you compiled non-animated version) with 2nd parameter path to the map (ex: "./so_long_bonus maps/map2.ber")
 * Play!
 
 P.S. "Make fclean" will delete all compiled files.
